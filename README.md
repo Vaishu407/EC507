@@ -7,6 +7,10 @@ The slides for the course can be found at `/slides'.
 
 The rest of the folders will be uploaded later.
 
+# USEFUL LINKS:
+https://code.visualstudio.com/
+https://www.python.org/downloads/
+
 IMPORTANT:
 Make yourself a collaborator for this repo.
 Click on Settings->Collaborators and Teams->Add People (on Manage Access)
